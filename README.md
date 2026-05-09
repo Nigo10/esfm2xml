@@ -1,7 +1,7 @@
 # esfm2xml
 Tool for converting .esfm files to .xml and vice versa.
 
-Vibecoded script to convert .esfm files to .xml and backwards. It can be used to modify the titles of PS4 trophies. 
+Vibecoded script to convert .esfm files to .xml and backwards. It can be used to modify the titles of PS4 trophies and probably other PlayStation trophies. 
 
 You will need the game NPWR key to convert these files properly, these can be found in different sites (i.e. https://junaid2005.wordpress.com/ps4-npwr-list/)
 
