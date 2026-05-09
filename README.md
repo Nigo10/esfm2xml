@@ -1,5 +1,5 @@
 # esfm2xml
-Tool for converting .esfm files to .xml and vice versa.
+Tool to convert .esfm files to .xml and vice versa.
 
 Vibecoded script to convert .esfm files to .xml and backwards. It can be used to modify the titles of PS4 trophies and probably other PlayStation trophies. 
 
