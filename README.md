@@ -5,6 +5,8 @@ Vibecoded script to convert .esfm files to .xml and backwards. It can be used to
 
 You will need the game NPWR key to convert these files properly, these can be found in different sites (i.e. https://junaid2005.wordpress.com/ps4-npwr-list/)
 
+__________________________________________________________________________________________________________________________________________________________
+
 Usage:
 
    Convert ESFM to XML: python esfm2xml.py esfm2xml TROP.ESFM NPWR00000_00 trop.xml
