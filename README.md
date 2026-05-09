@@ -11,4 +11,4 @@ Usage:
    
    Convert XML to ESFM: python esfm2xml.py xml2esfm trop.xml NPWR00000_00  out.esfm
    
-   Automatic:  python esfm2xml.py auto TROP.ESFM/.xml NPWR00000_00 out.xml/esfm
+   Automatic conversion:  python esfm2xml.py auto TROP.ESFM/.xml NPWR00000_00 out.xml/esfm
